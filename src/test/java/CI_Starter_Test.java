@@ -30,7 +30,7 @@ public class CI_Starter_Test {
 				.xpath("/html/body/div[1]/div[2]/div[1]/div[1]/div[3]/div/div/div/form/fieldset[2]/div/div/div/div/div[3]/div/input[1]"));
 
 		// click to the link
-		about.sendKeys("quality");
+		about.sendKeys("qualit");
 		// wait for 5 seconds
 		Thread.sleep(5000);
 	
